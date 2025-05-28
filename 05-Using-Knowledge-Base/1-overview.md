@@ -10,3 +10,11 @@ Issues can be solved by RAG:
 - Outdated information
 - Unreliable sources
 - Terminology confusion
+
+# Use cases
+Overall, RAG's ability to augment foundation models (FMs) with external knowledge sources makes it a versatile technology e.g:
+- ChatBot
+- Conversational AI
+- Fact & verification checking
+- Content generation
+- Data analytic
